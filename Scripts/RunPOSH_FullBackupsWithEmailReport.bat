@@ -1,0 +1,1 @@
+powershell -command H:\Tools\eDMSFarmFullBackupWithEmailReport.ps1

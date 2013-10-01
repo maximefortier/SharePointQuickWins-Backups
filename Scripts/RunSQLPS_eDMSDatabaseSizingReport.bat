@@ -1,0 +1,1 @@
+sqlps -Command "&{H:\Tools\eDMSDatabaseSizingReport.ps1}"
